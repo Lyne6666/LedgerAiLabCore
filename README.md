@@ -1,2 +1,1 @@
-# LedgerAiLabCore
-Advanced LedgerAiLabCore project
+.
